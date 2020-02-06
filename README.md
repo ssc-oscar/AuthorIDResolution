@@ -4,7 +4,7 @@ The following are descriptions for the files in the repo:
 prep.sh:
 Used for first round of grouping the ID data. The script will group the IDs based on name, email, and ...
 
-split.sh:
+split_forML.sh:
 Used to split the output file from prep.sh into X sub-files. This script produces two different files: block_chunk_* files that holds the metadata of the IDs, and block_IDS_* that holds just the block ID values. Both file types are used alongside each other for the R script. 
 
 compute.sh:
