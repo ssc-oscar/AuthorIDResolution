@@ -1,6 +1,5 @@
 # AuthorIDResolution
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3653069.svg)](https://doi.org/10.5281/zenodo.3653069)
-reStructedText
 
 The following are descriptions for the files in the repo:
 
