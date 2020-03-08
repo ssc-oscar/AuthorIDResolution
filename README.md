@@ -1,5 +1,5 @@
 # AuthorIDResolution
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3653069.svg)](https://doi.org/10.5281/zenodo.3653069)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3700859.svg)](https://doi.org/10.5281/zenodo.3700859)
 
 The following are descriptions for the files in the repo:
 
